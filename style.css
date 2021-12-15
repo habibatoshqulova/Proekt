@@ -1,0 +1,175 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: #E5E5E5;;
+    padding: 40px 30px 40px 30px;
+}
+
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.orta {
+    width: 100%;
+    margin-top: 110px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+  
+
+.nike {
+    position: absolute;
+    top: 20px;
+    right: 90px;
+}
+
+.air {
+    width: 1225px;
+    height: 274px;
+    color: #FFFFFF;
+    margin-left: 20px;
+    font-family: font-family: 'Montserrat', sans-serif;
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 190px;
+
+}
+
+.var{
+    width: 156px;
+    height: 64px;
+    position: absolute;
+    right: 58px;
+    bottom: 2px;
+}
+
+.d {font: bold;
+    color: #b0b0b9;
+    margin-left: 4.5px;
+}
+
+.c {
+    margin-bottom: 7px;
+}
+
+.btn {
+    margin-top: 80px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+.doira-bir {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    left: 275px;
+    top: 390px;
+    border-radius: 100px;
+    background: radial-gradient(96% 96% at 70.4% 31.2%, #FFFFFF 0%, #DCD8E9 100%), radial-gradient(96% 96% at 70.4% 31.2%, #FFFFFF 0%, rgba(221, 221, 221, 0) 100%), #E6E6E6;
+}
+ 
+.doira-ikki {
+    position: absolute;
+    width: 57px;
+    height: 57px;
+    left: 890px;
+    top: 60px;
+    background: radial-gradient(96% 96% at 70.4% 31.2%, #FFFFFF 0%, #DCD8E9 100%), #E6E6E6;
+    border-radius: 100%;
+}
+
+.doira-uch {
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    left: 245px;
+    top: 490px;
+    border-radius: 100px;
+    background: radial-gradient(96% 96% at 70.4% 31.2%, #FFFFFF 0%, #DCD8E9 100%), #E6E6E6;
+}
+
+.doira-tort {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 260px;
+    top: 540px;
+    border-radius: 100px;
+    background: radial-gradient(96% 96% at 70.4% 31.2%, #FFFFFF 0%, #DCD8E9 100%), radial-gradient(96% 96% at 70.4% 31.2%, #FFFFFF 0%, rgba(221, 221, 221, 0) 100%), #E6E6E6;
+
+}
+
+.doira-besh {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 770px;
+    top: 67px;
+    border-radius: 100%;
+    background: radial-gradient(96% 96% at 70.4% 31.2%, #FFFFFF 0%, #DCD8E9 100%), radial-gradient(96% 96% at 70.4% 31.2%, #FFFFFF 0%, rgba(221, 221, 221, 0) 100%), #E6E6E6;
+}
+
+.doira-olti {
+    position: absolute;
+    width: 34.36px;
+    height: 34.36px;
+    left: 890px;
+    top: 140px;
+    border-radius: 100%;
+    background: radial-gradient(96% 96% at 70.4% 31.2%, #FFFFFF 0%, #DCD8E9 100%), radial-gradient(96% 96% at 70.4% 31.2%, #FFFFFF 0%, rgba(221, 221, 221, 0) 100%), #E6E6E6;
+}
+
+.shoe {
+    Width: 900px;
+    Height: 900px;
+    Top: -50px;
+    Left: 200px;
+    position: absolute;
+    height: 100%;
+    left: 50%;
+    top: 0px;
+    transform: translateX(-50%);
+}
+
+.deg{
+    color: #323232;
+    position: absolute;
+    width: 120px;
+    height: 118px;
+    left: 810px;
+    top: 348px;
+    background: rgba(255, 255, 255, 0.2);
+    border: 2.94857px solid rgba(255, 255, 255, 0.7);
+    box-sizing: border-box;
+    backdrop-filter: blur(7.86286px);
+    border-radius: 100%;
+}
+
+.deg p {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+span {
+    
+}
+.img {
+    margin-left: 20px;
+}
+.scroll {
+    margin-left: 50px;
+}
